@@ -45,6 +45,7 @@ public class Piece {
 		
 		g.setColor(isBlack? Color.black:Color.white);
 		g.fillOval(x,y,size,size);
+	
 		
 	}
 }
